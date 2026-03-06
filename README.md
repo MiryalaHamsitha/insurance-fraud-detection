@@ -92,3 +92,30 @@ Hard-to-verify incidents with no other party carry nearly 3x the fraud rate of v
 ---
 
 ## Repository Structure
+```
+insurance-fraud-detection/
+├── README.md
+├── Data/
+│   └── insurance_claims.csv
+├── outputs/
+│   ├── Insurance_Fraud_Detection_Model.xlsx
+│   ├── insurance_case_study.pdf
+│   ├── ins_chart1_monthly.png
+│   ├── ins_chart2_fraud_patterns.png
+│   ├── ins_chart3_risk_scores.png
+│   ├── ins_dash_p1_executive.png
+│   ├── ins_dash_p2_fraud_patterns.png
+│   ├── ins_dash_p3_risk_loss.png
+│   └── ins_dash_p4_recommendations.png
+└── Sql/
+    └── Insurance_Fraud_Detection_SQL.sql
+```
+
+---
+
+## Tools & Skills
+`SQL` `Python` `pandas` `matplotlib` `Microsoft Excel` `Risk Scoring` `Fraud Detection` `Loss Ratio Analysis` `Business Analysis`
+
+---
+
+*Dataset: Auto Insurance Claims — Kaggle | 1,000 records | 40 variables*
