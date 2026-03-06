@@ -1,4 +1,5 @@
 Project Overview
+
 End-to-end fraud detection and loss analysis model built on 1,000 auto insurance claims. Identifies $14.9M in fraudulent claims, scores every claim on a composite risk scorecard, and delivers a 131x ROI investigation framework.
 
 Headline Numbers
